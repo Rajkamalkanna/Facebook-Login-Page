@@ -1,0 +1,106 @@
+body {
+    background-color: #F0F2F5;
+}
+.login {
+    text-align: center;
+    box-shadow: 4px 7px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    margin: 30px;
+    padding: 15px;
+    width: 389px;
+    height: 350px;
+    position: absolute;
+    top: 0px;
+    right: 200px;
+}
+
+a:link { 
+    text-decoration: none; 
+}
+
+.create {
+    background-color: #4BA428;
+    border-radius: 5px;
+    margin: 5px 0;
+    width: 230px;
+    height: 50px;
+    font-size: 1.2em;
+}
+
+.side{
+    margin-top: 415px;
+    margin-right: 75px;
+    padding: 15px;
+    position: absolute;
+    top: 0px;
+    right: 200px;
+
+}
+
+input[type=text], input[type=password] {
+    width: 364px;
+    height: 62px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+input::placeholder {
+    font: 20px/3 sans-serif;
+}
+
+button {
+    background-color: #166FE5;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 364px;
+    height: 54px;
+    border-radius: 5px;
+    font-size: 1.3em;
+  }
+
+  button:hover {
+    opacity: 0.8;
+  }
+
+  login > p {
+    color: #4267B2;
+  }
+
+  .content {
+    font-family: system-ui;
+    font-size: 30px;
+    width: 501px;
+    word-break: break-all;
+    margin-left: 201px;
+    margin-top: 100px;
+  }
+  .footer {
+        position: fixed;
+        bottom: 0;
+        color: #454545;
+        background-color:#FFFFFF;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+        left: 0;
+        right: 0;
+        color: #737373;
+        font-size: 14px;
+}
+
+.footer > p {
+    margin-left: 200px;
+    word-wrap: break-word;
+}
+
+.footer-links{
+    word-break: break-all;
+    width: 1020px;
+}
+
