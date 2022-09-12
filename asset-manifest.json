@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Facebook-Login-Page/static/css/main.249bfdee.css",
+    "main.js": "/Facebook-Login-Page/static/js/main.1dc93332.js",
+    "index.html": "/Facebook-Login-Page/index.html",
+    "main.249bfdee.css.map": "/Facebook-Login-Page/static/css/main.249bfdee.css.map",
+    "main.1dc93332.js.map": "/Facebook-Login-Page/static/js/main.1dc93332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249bfdee.css",
+    "static/js/main.1dc93332.js"
+  ]
+}
